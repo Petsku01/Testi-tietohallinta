@@ -1,6 +1,8 @@
 // Ei vastaa mitää oikeata järjestelmää
 // tehty testi mielessä ja opiskelussa
 // ei toimi
+//backend
+
 
 using Microsoft.AspNetCore.Mvc;
 using System;
