@@ -6,10 +6,10 @@ Backend:
 
 
 Frontend:
-
         Luo React-projekti ja lisää yllä oleva TypeScript-koodi.
         Asenna Axios: npm install axios.
         Käynnistä: npm start.
         Avaa: http://localhost:3000.
-    Testaus:
+        
+Testaus:
         Syötä ID (esim. 1), tarkista tiedot ja tallenna muistiinpano.
